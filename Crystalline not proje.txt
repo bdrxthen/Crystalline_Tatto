@@ -1,0 +1,19 @@
+
+
+
+1. iff boşlar için
+2. iff şifre için
+3. iff data karşılaştırması
+3. iffin içine kayıt set
+1. iff else kutular boşş
+2. iff şifre eşleşmiyor
+3. iff else kullanıcı adı ve e posta  daha önceden alınmış
+
+
+telefon 11 hane olacak 
+e posta @gmail.com 
+nick min.4 maks 16
+
+
+
+
