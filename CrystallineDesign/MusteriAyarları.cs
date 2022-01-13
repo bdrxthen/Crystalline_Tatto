@@ -23,8 +23,8 @@ namespace CrystallineDesign
         
         IFirebaseConfig Fcon = new FirebaseConfig()
         {
-            AuthSecret = "55Ru09LDH3I8wmXgniDS1E9DTTYU75bpDCPIv6nd",
-            BasePath = "https://crystallinedesign-d790c-default-rtdb.europe-west1.firebasedatabase.app/"
+            AuthSecret = "",
+            BasePath = ""
         };
         private FirebaseClient client;
 
